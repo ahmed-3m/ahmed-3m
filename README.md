@@ -2,6 +2,7 @@
 <h3 align="center">A passionate AI/ML Engineer Staying in Austria</h3>
 
 <h3 align="left">Connect with me:</h3>
+📧ahmed.mo.0593@gmail.com
 <p align="left">
 </p>
 
