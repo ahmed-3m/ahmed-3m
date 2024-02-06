@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ahmed</h1>
-<h3 align="center">A passionate AI/ML Engineer Staying in Austria</h3>
+<h3 align="center">A passionate AI/ML Engineer With an educational Mechatronics Engineering background, I'm now pursuing a Master's in AI to enhance my skills and contribute to this evolving field.</h3>
 
 <h3 align="left">Connect with me:</h3>
 📧ahmed.mo.0593@gmail.com
