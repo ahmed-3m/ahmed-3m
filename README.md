@@ -2,7 +2,7 @@
 <h3 align="center">A passionate AI/ML Engineer with Electric and Mechatronics Engineering background, I'm now pursuing a Master's in AI to enhance my skills and contribute to this evolving field.</h3>
 
 <h3 align="left">Connect with me:</h3>
-📧ahmed.mo.0593@gmail.com
+📧ahmed.mo.0595@gmail.com
 <p align="left">
 </p>
 
