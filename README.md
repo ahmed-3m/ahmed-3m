@@ -1,9 +1,24 @@
-🤖 AI/ML Engineer with expertise in anomaly detection and computer vision 
+# Ahmed Mohammed
 
-🔍 Specializing in CNNs, LSTMs, and Autoencoders for industrial applications
+AI/ML engineer focused on out-of-distribution detection, diffusion models, and computer vision.
 
-🧠 Solving complex challenges in defect detection and occluded object recognition
+## Focus
 
-💻 Check out my projects at https://ahmed-3m.github.io
+- OOD detection research and experimentation
+- Diffusion models for classification and anomaly detection
+- Occluded object detection and tracking
 
-📫 Contact: ahmed.mo.0595@gmail.com
+## Featured projects
+
+- OOD diffusion models: https://github.com/ahmed-3m/ood-diffusion
+- Diffusion-based OOD detector: https://github.com/ahmed-3m/OOD-diffusion-detector
+- Occluded object detection with tracking: https://github.com/ahmed-3m/Occluded-Object-Detection-With-Tracking
+- Portfolio site: https://ahmed-3m.github.io
+
+## Tech
+
+Python, PyTorch, Lightning, OpenCV
+
+## Contact
+
+ahmed.mo.0595@gmail.com
