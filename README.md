@@ -1,23 +1,47 @@
 # Ahmed Mohammed
 
-M.Sc. AI @ JKU Linz | Computer Vision & Anomaly Detection (Diffusion Models)
+Junior Hardware/Software Engineer | Linz, Austria
 
-## What I do
+M.Sc. Artificial Intelligence @ JKU Linz (Mar 2026)
 
-- Build OOD detection pipelines for industrial inspection and reliability
-- Evaluate anomaly detection models with robust, reproducible baselines
-- Develop computer vision systems for occluded object detection and tracking
+## Focus areas
 
-## Featured projects
+- Test infrastructure and reproducible workflows
+- Full-stack hardware-firmware-software debugging
+- Automation and tooling for teams
+- Manufacturing quality and validation
 
-- OOD diffusion models: Diffusion models for OOD detection with training and evaluation scripts. https://github.com/ahmed-3m/ood-diffusion
-- Diffusion-based OOD detector: Binary diffusion classifier for CIFAR-10 airplanes vs. non-airplanes. https://github.com/ahmed-3m/OOD-diffusion-detector
-- Occluded object detection with tracking: YOLO-based occluded object detection with centroid tracking. https://github.com/ahmed-3m/Occluded-Object-Detection-With-Tracking
-- Portfolio site: Personal portfolio built with Next.js and TypeScript. https://ahmed-3m.github.io/
+## Experience
+
+- JKU Linz (Dec 2024-Present): M.Sc. Researcher — reproducible workflows, config-driven testing
+- PROFACTOR GmbH (Apr-Nov 2024): Machine Vision Researcher — evaluation pipelines, bottleneck analysis
+- LED-Zone (Dec 2018-Sep 2020): Electronics Technician — PCB assembly, testing, QA
+
+## Projects
+
+- SCARA Robot: hardware-firmware-software integration (LabVIEW + Arduino)
+- M.Sc. Thesis: test infrastructure and reproducible evaluation
+- Faultrix: computer vision exploration (side project)
+- Occluded Object Tracking: OpenCV-based pipeline
+
+## Skills
+
+- Python scripting and automation
+- Hardware and embedded systems
+- Test infrastructure
+- Git and Linux
+- LabVIEW, Arduino basics
+
+## Interests
+
+- Making complex test setups simple and repeatable
+- Debugging across the stack and documenting what matters
+- Practical, hands-on engineering with clear feedback loops
 
 ## Links
 
-- Portfolio: https://ahmed-3m.github.io/
-- LinkedIn: https://www.linkedin.com/in/ahmed-3m/
-- Hugging Face: https://huggingface.co/ahmed-3m
-- Email: mailto:ahmed.mo.0595@gmail.com
+- LinkedIn: https://linkedin.com/in/ahmed-3m
+- Email: ahmed.mo.0595@gmail.com
+
+🚀 Currently Learning: CI/CD pipelines, advanced firmware debugging
+👀 Open To: Test infrastructure, factory tools, manufacturing quality roles
