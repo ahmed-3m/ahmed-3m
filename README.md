@@ -1,47 +1,43 @@
-# Ahmed Mohammed
+﻿# Ahmed Mohammed
 
-Junior Hardware/Software Engineer | Linz, Austria
+**AI/ML Engineer & Entrepreneur**  Linz, Austria
 
-M.Sc. Artificial Intelligence @ JKU Linz (Mar 2026)
+M.Sc. Artificial Intelligence  [Johannes Kepler University Linz](https://www.jku.at)
 
-## Focus areas
+---
 
-- Test infrastructure and reproducible workflows
-- Full-stack hardware-firmware-software debugging
-- Automation and tooling for teams
-- Manufacturing quality and validation
+## About
 
-## Experience
+I specialize in **computer vision**, **anomaly detection**, and **diffusion models**, with 4+ years of hands-on experience bridging cutting-edge research with production systems.
 
-- JKU Linz (Dec 2024-Present): M.Sc. Researcher — reproducible workflows, config-driven testing
-- PROFACTOR GmbH (Apr-Nov 2024): Machine Vision Researcher — evaluation pipelines, bottleneck analysis
-- LED-Zone (Dec 2018-Sep 2020): Electronics Technician — PCB assembly, testing, QA
+**Founder of [Faultrix](https://faultrix.com)**  AI-powered construction quality control SaaS. The platform analyzes building photos and generates ÖNORM-compliant technical reports in under 1 minute.
 
-## Projects
+## Research
 
-- SCARA Robot: hardware-firmware-software integration (LabVIEW + Arduino)
-- M.Sc. Thesis: test infrastructure and reproducible evaluation
-- Faultrix: computer vision exploration (side project)
-- Occluded Object Tracking: OpenCV-based pipeline
+- **Master's Thesis**: *Conditional Diffusion Models as Generative Classifiers for Out-of-Distribution Detection*  [JKU Machine Learning Institute](https://www.jku.at/institut-fuer-machine-learning/)
+- **98.4% accuracy** in industrial defect detection using optimized YOLO at [PROFACTOR GmbH](https://www.profactor.at)
+- Publications on EEG signal classification, GANs, and diffusion-based anomaly detection
 
-## Skills
+## Featured Projects
 
-- Python scripting and automation
-- Hardware and embedded systems
-- Test infrastructure
-- Git and Linux
-- LabVIEW, Arduino basics
+| Project | Description | Stack |
+|---------|-------------|-------|
+| [**Faultrix**](https://faultrix.com) | AI construction quality control SaaS | Next.js  Convex  OpenAI |
+| [**OOD Detection**](https://github.com/ahmed-3m/OOD-diffusion-detector) | Diffusion models for out-of-distribution detection | PyTorch  DDPM |
+| [**Industrial Defect Detection**](https://github.com/ahmed-3m/Occluded-Object-Detection-With-Tracking) | YOLO + diffusion pipeline for quality control | PyTorch  OpenCV |
+| [**EEG Classification**](https://github.com/ahmed-3m/Motor-Imagery-classification) | Deep RNN for brain-computer interfaces | TensorFlow  LSTM |
 
-## Interests
+## Tech Stack
 
-- Making complex test setups simple and repeatable
-- Debugging across the stack and documenting what matters
-- Practical, hands-on engineering with clear feedback loops
+`PyTorch` `TensorFlow` `YOLO` `OpenCV` `TypeScript` `React` `Next.js` `Convex` `Docker` `MLflow` `GitHub Actions`
 
 ## Links
 
-- LinkedIn: https://linkedin.com/in/ahmed-3m
-- Email: ahmed.mo.0595@gmail.com
+- **Portfolio**: [ahmed-3m.github.io](https://ahmed-3m.github.io)
+- **LinkedIn**: [linkedin.com/in/ahmed-3m](https://linkedin.com/in/ahmed-3m)
+- **HuggingFace**: [huggingface.co/ahmed-3m](https://huggingface.co/ahmed-3m)
+- **Email**: ahmed.mo.0595@gmail.com
 
-🚀 Currently Learning: CI/CD pipelines, advanced firmware debugging
-👀 Open To: Test infrastructure, factory tools, manufacturing quality roles
+---
+
+*Open to AI/ML consulting, research collaborations, and full-stack development projects.*
