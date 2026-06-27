@@ -49,18 +49,18 @@ My M.Sc. thesis at [JKU Linz](https://www.jku.at) explored **conditional diffusi
       <p align="center"><code>Next.js</code> · <code>Convex</code> · <code>OpenAI</code></p>
     </td>
     <td width="50%" valign="top">
-      <h3 align="center">🔬 <a href="https://github.com/ahmed-3m/OOD-diffusion-detector"><b>OOD Diffusion Detector</b></a></h3>
-      <p align="center"><b>Diffusion models for out-of-distribution detection</b></p>
-      <p align="center">Binary diffusion-based generative classifier — core of my M.Sc. thesis research.</p>
+      <h3 align="center">🔬 <a href="https://github.com/ahmed-3m/DiffusionOOD"><b>DiffusionOOD</b></a></h3>
+      <p align="center"><b>Conditional diffusion + separation loss for OOD detection</b></p>
+      <p align="center">Core of my M.Sc. thesis @ JKU Linz — reached 99.03% AUROC on CIFAR-10 OOD detection.</p>
       <p align="center"><code>PyTorch</code> · <code>DDPM</code></p>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3 align="center">🏭 <a href="https://github.com/ahmed-3m/Occluded-Object-Detection-With-Tracking"><b>Industrial Defect Detection</b></a></h3>
-      <p align="center"><b>YOLO + centroid tracking pipeline</b></p>
-      <p align="center">Occluded-object detection for quality control — reached 98.4% accuracy @ PROFACTOR.</p>
-      <p align="center"><code>PyTorch</code> · <code>YOLO</code> · <code>OpenCV</code></p>
+      <h3 align="center">🏭 <a href="https://github.com/ahmed-3m/InkjetOOD"><b>InkjetOOD</b></a></h3>
+      <p align="center"><b>Industrial transfer of the thesis method</b></p>
+      <p align="center">Applies the conditional-diffusion OOD method to industrial inkjet quality control — part of my M.Sc. thesis.</p>
+      <p align="center"><code>PyTorch</code> · <code>Diffusion</code></p>
     </td>
     <td width="50%" valign="top">
       <h3 align="center">🧠 <a href="https://github.com/ahmed-3m/Motor-Imagery-classification"><b>EEG / Brain-Computer Interface</b></a></h3>
