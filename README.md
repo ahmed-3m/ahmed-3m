@@ -23,7 +23,9 @@ My M.Sc. thesis at [JKU Linz](https://www.jku.at) explored **conditional diffusi
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PyTorch_Lightning-792DE4?style=flat-square&logo=pytorchlightning&logoColor=white"/>
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white"/>
+  <img src="https://img.shields.io/badge/%F0%9F%A4%97_HuggingFace-FFD21E?style=flat-square&logoColor=black"/>
   <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white"/>
   <img src="https://img.shields.io/badge/YOLO-00FFFF?style=flat-square&logo=yolo&logoColor=black"/>
   <br/>
@@ -33,7 +35,7 @@ My M.Sc. thesis at [JKU Linz](https://www.jku.at) explored **conditional diffusi
   <img src="https://img.shields.io/badge/Convex-5A67D8?style=flat-square"/>
   <br/>
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MLflow-0194E2?style=flat-square&logo=mlflow&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Weights_&_Biases-FFCC33?style=flat-square&logo=weightsandbiases&logoColor=black"/>
   <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white"/>
   <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black"/>
 </p>
