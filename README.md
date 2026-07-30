@@ -36,7 +36,7 @@ I'm an **AI/ML engineer and founder** specializing in **computer vision**, **ano
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3 align="center">🧭 <a href="https://sihem-pwa.pages.dev/"><b>Sihem</b></a></h3>
+      <h3 align="center">🏹 <a href="https://sihem-pwa.pages.dev/"><b>Sihem</b></a></h3>
       <p align="center"><b>LLM-driven personal-mentor assistant</b></p>
       <p align="center">Weekly planning, morning briefings, evening reviews, smart check-ins, and long-term memory. Try it on <a href="https://t.me/Sihem_AI_bot">Telegram @Sihem_AI_bot</a> or the <a href="https://sihem-pwa.pages.dev/">installable PWA</a>.</p>
       <p align="center"><b>Invitation code:</b> <code>gh26</code></p>
@@ -112,7 +112,7 @@ I'm an **AI/ML engineer and founder** specializing in **computer vision**, **ano
 
 ### 🌱 Currently Building &amp; Learning
 
-- 🧭 Scaling **[Sihem](https://sihem-pwa.pages.dev/)** — an LLM personal-mentor assistant (PWA channel + proactive triggers)
+- 🏹 Scaling **[Sihem](https://sihem-pwa.pages.dev/)** — an LLM personal-mentor assistant (PWA channel + proactive triggers)
 - 🔬 Self-training &amp; alignment methods for LLMs (DPO-ST, SDPO, LaSeR) — [models on HuggingFace](https://huggingface.co/ahmed-3m)
 - 📡 Image restoration applied to INTEGRAL satellite imagery
 
