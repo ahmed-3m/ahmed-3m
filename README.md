@@ -2,23 +2,17 @@
   <img src="assets/banner.svg" alt="Ahmed Mohammed — AI/ML Engineer" width="100%"/>
 </p>
 
-<table>
-  <tr>
-    <td width="180" valign="middle" align="center">
-      <img src="assets/headshot.jpg" alt="Ahmed Mohammed" width="140" style="border-radius:12px;"/>
-    </td>
-    <td valign="middle">
-      <b>AI/ML Engineer &amp; Founder</b> · Linz, Austria<br/>
-      <sub>Turning research into shipped products — from an <b>M.Sc. thesis on conditional diffusion for OOD detection</b> to <b><a href="https://sihem-pwa.pages.dev/">Sihem</a></b>, a live LLM personal-mentor assistant.</sub>
-      <br/><br/>
-      <a href="https://ahmed-3m.github.io"><img src="https://img.shields.io/badge/Portfolio-ahmed--3m.github.io-0A0A0A?style=flat-square&logo=About.me&logoColor=white"/></a>
-      <a href="https://linkedin.com/in/ahmed-3m"><img src="https://img.shields.io/badge/LinkedIn-ahmed--3m-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/></a>
-      <a href="https://huggingface.co/ahmed-3m"><img src="https://img.shields.io/badge/%F0%9F%A4%97_HuggingFace-32_models-FFD21E?style=flat-square&logoColor=black"/></a>
-      <a href="https://github.com/ahmed-3m"><img src="https://img.shields.io/badge/GitHub-ahmed--3m-181717?style=flat-square&logo=github&logoColor=white"/></a>
-      <a href="mailto:ahmed.mo.0595@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white"/></a>
-    </td>
-  </tr>
-</table>
+<h3 align="center"><b>AI/ML Engineer &amp; Founder</b> · Linz, Austria</h3>
+<p align="center">
+  <sub>Turning research into shipped products — from an <b>M.Sc. thesis on conditional diffusion for OOD detection</b> to <b><a href="https://sihem-pwa.pages.dev/">Sihem</a></b>, a live LLM personal-mentor assistant.</sub>
+</p>
+<p align="center">
+  <a href="https://ahmed-3m.github.io"><img src="https://img.shields.io/badge/Portfolio-ahmed--3m.github.io-0A0A0A?style=flat-square&logo=About.me&logoColor=white"/></a>
+  <a href="https://linkedin.com/in/ahmed-3m"><img src="https://img.shields.io/badge/LinkedIn-ahmed--3m-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/></a>
+  <a href="https://huggingface.co/ahmed-3m"><img src="https://img.shields.io/badge/%F0%9F%A4%97_HuggingFace-32_models-FFD21E?style=flat-square&logoColor=black"/></a>
+  <a href="https://github.com/ahmed-3m"><img src="https://img.shields.io/badge/GitHub-ahmed--3m-181717?style=flat-square&logo=github&logoColor=white"/></a>
+  <a href="mailto:ahmed.mo.0595@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white"/></a>
+</p>
 
 ---
 
