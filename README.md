@@ -9,7 +9,7 @@
     </td>
     <td valign="middle">
       <b>AI/ML Engineer &amp; Founder</b> · Linz, Austria<br/>
-      <sub>Turning computer-vision research into products people pay for — from an <b>M.Sc. thesis on conditional diffusion for OOD detection</b> to <b><a href="https://faultrix.com">Faultrix</a></b>, a live AI SaaS for construction quality control.</sub>
+      <sub>Turning research into shipped products — from an <b>M.Sc. thesis on conditional diffusion for OOD detection</b> to <b><a href="https://github.com/ahmed-3m/sihem">Sihem</a></b>, an LLM-driven personal-mentor assistant.</sub>
       <br/><br/>
       <a href="https://ahmed-3m.github.io"><img src="https://img.shields.io/badge/Portfolio-ahmed--3m.github.io-0A0A0A?style=flat-square&logo=About.me&logoColor=white"/></a>
       <a href="https://linkedin.com/in/ahmed-3m"><img src="https://img.shields.io/badge/LinkedIn-ahmed--3m-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/></a>
@@ -28,7 +28,7 @@ I'm an **AI/ML engineer and founder** specializing in **computer vision**, **ano
 
 - 🔬 **Research → SOTA:** my [M.Sc. thesis at JKU Linz](https://github.com/ahmed-3m/DiffusionOOD) introduced a **conditional-diffusion + separation-loss** method for out-of-distribution detection, reaching **99.03% AUROC** on CIFAR-10.
 - 🏭 **Research → industry:** at [PROFACTOR GmbH](https://www.profactor.at) I transferred the same method to real-world **industrial defect detection** with **98.4% accuracy**.
-- 🚀 **Research → product:** I founded **[Faultrix](https://faultrix.com)** — a live AI SaaS that turns construction photos into ÖNORM/DIN/SIA-compliant quality-control reports in under a minute.
+- 🚀 **Research → product:** I built **[Sihem](https://github.com/ahmed-3m/sihem)** — an LLM-driven personal-mentor assistant delivered over Telegram + an installable PWA, with proactive cron-driven check-ins and long-term memory.
 - 🤗 **In the open:** I publish my work (DiffusionOOD, InkjetOOD, plus self-training LLM experiments) on **[HuggingFace](https://huggingface.co/ahmed-3m)** — 32 public models.
 
 ### 🚀 Featured Work
@@ -36,10 +36,10 @@ I'm an **AI/ML engineer and founder** specializing in **computer vision**, **ano
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3 align="center">🏗️ <a href="https://faultrix.com"><b>Faultrix</b></a> <sub>· live</sub></h3>
-      <p align="center"><b>AI construction quality-control SaaS</b></p>
-      <p align="center">Analyzes building photos and generates ÖNORM/DIN/SIA-compliant technical reports in &lt;1 min. Founder &amp; solo builder.</p>
-      <p align="center"><code>AI SaaS</code> · <code>CV</code> · <code>LLM</code></p>
+      <h3 align="center">🧭 <a href="https://github.com/ahmed-3m/sihem"><b>Sihem</b></a></h3>
+      <p align="center"><b>LLM-driven personal-mentor assistant</b></p>
+      <p align="center">Telegram + installable PWA mentor: weekly planning, morning briefings, evening reviews, smart check-ins, and long-term memory. Solo builder.</p>
+      <p align="center"><code>LLM (GLM)</code> · <code>Supabase</code> · <code>Deno</code> · <code>PWA</code></p>
     </td>
     <td width="50%" valign="top">
       <h3 align="center">🔬 <a href="https://github.com/ahmed-3m/DiffusionOOD"><b>DiffusionOOD</b></a></h3>
@@ -111,7 +111,7 @@ I'm an **AI/ML engineer and founder** specializing in **computer vision**, **ano
 
 ### 🌱 Currently Building &amp; Learning
 
-- 🏗️ Scaling **[Faultrix](https://faultrix.com)** — productizing CV/AI for the construction industry
+- 🧭 Scaling **[Sihem](https://github.com/ahmed-3m/sihem)** — an LLM personal-mentor assistant (PWA channel + proactive triggers)
 - 🔬 Self-training &amp; alignment methods for LLMs (DPO-ST, SDPO, LaSeR) — [models on HuggingFace](https://huggingface.co/ahmed-3m)
 - 📡 Image restoration applied to INTEGRAL satellite imagery
 
