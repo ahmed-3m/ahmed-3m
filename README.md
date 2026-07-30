@@ -103,12 +103,21 @@ I'm an **AI/ML engineer and founder** specializing in **computer vision**, **ano
   <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black"/>
 </p>
 
-### 📊 GitHub Stats
+### 📈 Impact at a Glance
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ahmed-3m&show_icons=true&hide_border=true&hide_title=true&theme=transparent&count_private=true" alt="Ahmed's GitHub stats" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmed-3m&layout=compact&hide_border=true&theme=transparent" alt="Top languages" height="165"/>
-</p>
+<table align="center">
+  <tr>
+    <td align="center" width="20%"><b>99.03%</b><br/><sub>AUROC · CIFAR-10 OOD</sub></td>
+    <td align="center" width="20%"><b>98.4%</b><br/><sub>accuracy · industrial defects</sub></td>
+    <td align="center" width="20%"><b>32</b><br/><sub>open models on HuggingFace</sub></td>
+    <td align="center" width="20%"><b>&lt;60s</b><br/><sub>report generation · Sihem</sub></td>
+    <td align="center" width="20%"><b>13</b><br/><sub>repos shipped</sub></td>
+  </tr>
+</table>
+
+<sub>Performance from verified thesis results and live systems — not vanity metrics.</sub>
+
+🎓 M.Sc. thesis: <a href="https://ahmed-3m.github.io/Mohammed_Ahmed_Thesis_Diffusion_OOD_Detection.pdf"><b>Conditional Diffusion Models as Generative Classifiers for OOD Detection</b></a> (JKU Linz).
 
 ### 🌱 Currently Building &amp; Learning
 
