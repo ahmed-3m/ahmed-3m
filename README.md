@@ -21,7 +21,7 @@
 I'm an **AI/ML engineer and founder** specializing in **computer vision**, **anomaly detection**, and **diffusion models** — bridging cutting-edge research with production systems. A few things I'm proud of:
 
 - 🔬 **Research → SOTA:** my [M.Sc. thesis at JKU Linz](https://github.com/ahmed-3m/DiffusionOOD) introduced a **conditional-diffusion + separation-loss** method for out-of-distribution detection, reaching **99.03% AUROC** on CIFAR-10.
-- 🏭 **Research → industry:** at [PROFACTOR GmbH](https://www.profactor.at) I transferred the same method to real-world **industrial defect detection** with **98.4% accuracy**.
+- 🏭 **Research → industry:** at [PROFACTOR GmbH](https://www.profactor.at) I transferred the same method to real-world **industrial defect detection** for print quality control.
 - 🚀 **Research → product:** I built **[Sihem](https://sihem-pwa.pages.dev/)** — an LLM-driven personal-mentor assistant (Telegram bot + installable PWA) with proactive cron-driven check-ins and long-term memory.
 - 🤗 **In the open:** I publish my work (DiffusionOOD, InkjetOOD, plus self-training LLM experiments) on **[HuggingFace](https://huggingface.co/ahmed-3m)** — 32 public models.
 
@@ -101,11 +101,9 @@ I'm an **AI/ML engineer and founder** specializing in **computer vision**, **ano
 
 <table align="center">
   <tr>
-    <td align="center" width="20%"><b>99.03%</b><br/><sub>AUROC · CIFAR-10 OOD</sub></td>
-    <td align="center" width="20%"><b>98.4%</b><br/><sub>accuracy · industrial defects</sub></td>
-    <td align="center" width="20%"><b>32</b><br/><sub>open models on HuggingFace</sub></td>
-    <td align="center" width="20%"><b>&lt;60s</b><br/><sub>report generation · Sihem</sub></td>
-    <td align="center" width="20%"><b>13</b><br/><sub>repos shipped</sub></td>
+    <td align="center" width="33%"><b>99.03%</b><br/><sub>AUROC · CIFAR-10 OOD</sub></td>
+    <td align="center" width="34%"><b>32</b><br/><sub>open models on HuggingFace</sub></td>
+    <td align="center" width="33%"><b>13</b><br/><sub>repos shipped</sub></td>
   </tr>
 </table>
 
