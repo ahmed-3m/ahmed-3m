@@ -2,7 +2,7 @@
   <img src="assets/banner.svg" alt="Ahmed Mohammed — AI/ML Engineer" width="100%"/>
 </p>
 
-<h3 align="center"><b>AI/ML Engineer &amp;· Linz, Austria</h3>
+<h3 align="center"><b>AI/ML Engineer. Linz, Austria</h3>
 <p align="center">
   <sub>Turning research into shipped products — from an <b>M.Sc. thesis on conditional diffusion for OOD detection</b> to <b><a href="https://sihem-pwa.pages.dev/">Sihem</a></b>, a live LLM personal-mentor assistant.</sub>
 </p>
@@ -18,7 +18,7 @@
 
 ### 👋 About Me
 
-I'm an **AI/ML engineer and founder** specializing in **computer vision**, **anomaly detection**, and **diffusion models** — bridging cutting-edge research with production systems. A few things I'm proud of:
+I'm an **AI/ML engineer** specializing in **computer vision**, **anomaly detection**, and **diffusion models** — bridging cutting-edge research with production systems. A few things I'm proud of:
 
 - 🔬 **Research → SOTA:** my [M.Sc. thesis at JKU Linz](https://github.com/ahmed-3m/DiffusionOOD) introduced a **conditional-diffusion + separation-loss** method for out-of-distribution detection, reaching **99.03% AUROC** on CIFAR-10.
 - 🏭 **Research → industry:** at [PROFACTOR GmbH](https://www.profactor.at) I transferred the same method to real-world **industrial defect detection** for print quality control.
