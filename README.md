@@ -2,7 +2,7 @@
   <img src="assets/banner.svg" alt="Ahmed Mohammed — AI/ML Engineer" width="100%"/>
 </p>
 
-<h3 align="center"><b>AI/ML Engineer &amp; Founder</b> · Linz, Austria</h3>
+<h3 align="center"><b>AI/ML Engineer &amp;· Linz, Austria</h3>
 <p align="center">
   <sub>Turning research into shipped products — from an <b>M.Sc. thesis on conditional diffusion for OOD detection</b> to <b><a href="https://sihem-pwa.pages.dev/">Sihem</a></b>, a live LLM personal-mentor assistant.</sub>
 </p>
