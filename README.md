@@ -1,37 +1,62 @@
-# Ahmed Mohammed
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/hero-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="assets/hero-light.svg">
+  <img src="assets/hero-light.svg" alt="Ahmed Mohammed, AI/ML Engineer, Linz, Austria. M.Sc. AI, JKU Linz." width="100%">
+</picture>
 
-AI/ML engineer · Linz, Austria · M.Sc. AI, JKU Linz
+I build AI systems end to end: training and evaluating models, turning LLMs into working products, and writing the tooling that keeps coding agents honest. Open to AI/ML engineer roles and available now.
 
-I train conditional diffusion models that separate familiar samples from unfamiliar ones, and I carry that detector from a CIFAR-10 thesis result to an inkjet inspection line.
+[Portfolio](https://ahmed-3m.github.io/) · [LinkedIn](https://www.linkedin.com/in/ahmed-3m/) · [Hugging Face](https://huggingface.co/ahmed-3m) · [Thesis PDF](https://ahmed-3m.github.io/Mohammed_Ahmed_Thesis_Diffusion_OOD_Detection.pdf) · [ORCID](https://orcid.org/0009-0004-8934-1270)
 
-<img src="assets/ood-roc.png" alt="ROC curves for CIFAR-10 out-of-distribution detection. Several datasets sit well above the diagonal." width="100%">
+## What I do
 
-CIFAR-10 out-of-distribution detection, conditional diffusion, seed 42. Thesis-reported peak figure: 99.03% AUROC. The plot is the audited curve, not a redraw.
+- **Applied machine learning.** Python, PyTorch, Lightning, Diffusers, YOLOv8 and Weights & Biases, from experiment design to results that hold up across seeds.
+- **LLM products.** Multi-provider routing, vector memory, scheduled jobs and evals behind a live assistant.
+- **Agent tooling.** Deterministic checks and workflows for AI coding agents. I build with Claude Code and Copilot openly, and my TypeScript and web work is AI-assisted.
 
-## [DiffusionOOD](https://github.com/ahmed-3m/DiffusionOOD)
+## Selected work
 
-Conditional diffusion with a separation loss for out-of-distribution detection. Thesis result: 99.03% AUROC on CIFAR-10.
+| Project | What it is |
+|---|---|
+| [**mergeproof**](https://github.com/ahmed-3m/mergeproof) | Decides whether a pull request written by an AI agent is safe to merge. Plain deterministic code that never calls an LLM, so the agent being judged cannot talk its way past it. |
+| [**Sihem**](https://sihem-pwa.pages.dev/) | An assistant for habits and daily routines, delivered as a Telegram bot and an installable web app. Solo side project, accepted into the tech2b incubator in Linz. Code is private. |
+| [**DiffusionOOD**](https://github.com/ahmed-3m/DiffusionOOD) | M.Sc. thesis code (graded 1). A conditional diffusion model with a separation loss reaches 99.03 ± 0.07% AUROC on CIFAR-10 over three seeds. |
+| [**InkjetOOD**](https://github.com/ahmed-3m/InkjetOOD) | The thesis method on industrial data: YOLOv8 plus a diffusion classifier for print quality control, on PROFACTOR's public FTI_Zer0P dataset. |
+| [**Elbostan Pazar bot**](https://github.com/ahmed-3m/Elbostan-Pazar-bot) | A Messenger bot that answers a real shop's customers about prices, hours and delivery. |
+| [**brainstorm2idea**](https://github.com/ahmed-3m/brainstorm2idea) and [**idea2prototype**](https://github.com/ahmed-3m/idea2prototype) | Zero-dependency tools that take a fuzzy idea to a linted brief, then to a tested prototype, with any coding agent. |
 
-## [InkjetOOD](https://github.com/ahmed-3m/InkjetOOD)
+<details>
+<summary><strong>The thesis result in one chart</strong></summary>
+<br>
 
-The same detector carried onto industrial inkjet inspection.
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/thesis-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="assets/thesis-light.svg">
+  <img src="assets/thesis-light.svg" alt="Separation loss raised mean AUROC on CIFAR-10 from 92.52% to 99.03% and cut the spread between three seeds from 11.07 to 0.07." width="100%">
+</picture>
 
-## [Sihem](https://sihem-pwa.pages.dev/)
+Five external benchmarks score between 90.50% and 96.97% AUROC. The ROC curves below are drawn from the audited raw scores of seed 42, where the within-CIFAR AUROC is 98.98%.
 
-A live personal-assistant app. The codebase is private; this is the public site.
+<img src="assets/ood-roc.png" alt="ROC curves for CIFAR-10 out-of-distribution detection against six comparison sets, all well above the diagonal." width="100%">
 
-## Also
+[Thesis LaTeX source](https://github.com/ahmed-3m/thesis-diffusion-ood-latex)
 
-- [Portfolio](https://ahmed-3m.github.io/) — Public site. Next.js portfolio, and the public face of Sihem.
-- [Thesis PDF](https://ahmed-3m.github.io/Mohammed_Ahmed_Thesis_Diffusion_OOD_Detection.pdf) — Full thesis.
-- [Thesis source](https://github.com/ahmed-3m/thesis-diffusion-ood-latex) — LaTeX source of the thesis.
-- [Hugging Face](https://huggingface.co/ahmed-3m) — 32 public models, including self-training experiments (DPO-ST, SDPO, LaSeR).
-- [Elbostan Pazar bot](https://github.com/ahmed-3m/Elbostan-Pazar-bot) — A Messenger bot that answers a shop's customer questions.
-- [Motor imagery](https://github.com/ahmed-3m/Motor-Imagery-classification) — Finished 2024 work: motor-imagery classification for a brain-computer interface.
-- [LinkedIn](https://www.linkedin.com/in/ahmed-3m/)
+</details>
+
+## Latest work
+
+<!-- latest-work:start -->
+- Nov 3, 2026: Union-merge the events log on push ([mergeproof #59](https://github.com/ahmed-3m/mergeproof/pull/59))
+- Nov 3, 2026: Write the retro table to the run summary ([mergeproof #58](https://github.com/ahmed-3m/mergeproof/pull/58))
+- Nov 2, 2026: Connect mirql upstream watch and gate promote ([mergeproof #56](https://github.com/ahmed-3m/mergeproof/pull/56))
+- Oct 31, 2026: Complete recursive self-development loop with audited security hardening ([mergeproof #50](https://github.com/ahmed-3m/mergeproof/pull/50))
+- Oct 31, 2026: M3 self-development loop (harness-agnostic issue loop, humanOnly, roadmap, promote) ([mergeproof #40](https://github.com/ahmed-3m/mergeproof/pull/40))
+<!-- latest-work:end -->
 
 ## Activity
 
-<img src="assets/activity.svg" alt="Bar chart of GitHub contributions per week over the last 12 months." width="100%">
-
-Open to AI/ML engineer roles — applied research and product work.
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/activity-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="assets/activity-light.svg">
+  <img src="assets/activity-light.svg" alt="Bar chart of GitHub contributions per week over the last 12 months." width="100%">
+</picture>

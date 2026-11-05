@@ -1,30 +1,35 @@
-name: Update activity graph
+name: Update profile
 
 on:
   schedule:
-    - cron: '17 4 * * 1'
+    - cron: '17 4 * * *'
   workflow_dispatch:
 
 permissions:
   contents: write
 
+concurrency:
+  group: update-profile
+  cancel-in-progress: true
+
 jobs:
   update:
     runs-on: ubuntu-latest
+    timeout-minutes: 5
     steps:
       - uses: actions/checkout@v4
-      - name: Draw the graph
-        run: node scripts/activity-graph.js
+      - name: Refresh the chart and the latest work
+        run: node scripts/update-profile.js
         env:
           GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-      - name: Commit if it changed
+      - name: Commit if anything changed
         run: |
-          git add assets/activity.svg
+          git add assets README.md
           if git diff --cached --quiet; then
-            echo "Graph unchanged"
+            echo "Nothing changed"
           else
             git config user.name "github-actions[bot]"
             git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-            git commit -m "Update activity graph"
+            git commit -m "Update profile"
             git push
           fi
