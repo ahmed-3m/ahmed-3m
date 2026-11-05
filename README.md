@@ -30,4 +30,8 @@ A live personal-assistant app. The codebase is private; this is the public site.
 - [Motor imagery](https://github.com/ahmed-3m/Motor-Imagery-classification) — Finished 2024 work: motor-imagery classification for a brain-computer interface.
 - [LinkedIn](https://www.linkedin.com/in/ahmed-3m/)
 
+## Activity
+
+<img src="assets/activity.svg" alt="Bar chart of GitHub contributions per week over the last 12 months." width="100%">
+
 Open to AI/ML engineer roles — applied research and product work.
