@@ -21,7 +21,7 @@ function hero(theme) {
   const height = 220;
   const random = randomFrom(7);
   const lanes = [62, 110, 158];
-  const left = 500;
+  const left = 556;
   const right = 872;
   const dots = [];
 
