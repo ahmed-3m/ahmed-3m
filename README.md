@@ -46,11 +46,11 @@ Five external benchmarks score between 90.50% and 96.97% AUROC. The ROC curves b
 ## Latest work
 
 <!-- latest-work:start -->
-- Nov 3, 2026: Union-merge the events log on push ([mergeproof #59](https://github.com/ahmed-3m/mergeproof/pull/59))
-- Nov 3, 2026: Write the retro table to the run summary ([mergeproof #58](https://github.com/ahmed-3m/mergeproof/pull/58))
-- Nov 2, 2026: Connect mirql upstream watch and gate promote ([mergeproof #56](https://github.com/ahmed-3m/mergeproof/pull/56))
-- Oct 31, 2026: Complete recursive self-development loop with audited security hardening ([mergeproof #50](https://github.com/ahmed-3m/mergeproof/pull/50))
-- Oct 31, 2026: M3 self-development loop (harness-agnostic issue loop, humanOnly, roadmap, promote) ([mergeproof #40](https://github.com/ahmed-3m/mergeproof/pull/40))
+- Nov 8, 2026: Bespoke OG cards + footer internal links ([ahmed-3m.github.io #197](https://github.com/ahmed-3m/ahmed-3m.github.io/pull/197))
+- Nov 8, 2026: Align portfolio identity with the redesigned GitHub profile ([ahmed-3m.github.io #196](https://github.com/ahmed-3m/ahmed-3m.github.io/pull/196))
+- Nov 7, 2026: Reconcile AUROC numbers + legible τ label; refresh agent docs ([ahmed-3m.github.io #193](https://github.com/ahmed-3m/ahmed-3m.github.io/pull/193))
+- Nov 7, 2026: Update education details in README ([ahmed-3m.github.io #194](https://github.com/ahmed-3m/ahmed-3m.github.io/pull/194))
+- Nov 7, 2026: Dead code removal, dedicated 404 title, YOLOv8n/m erratum ([ahmed-3m.github.io #188](https://github.com/ahmed-3m/ahmed-3m.github.io/pull/188))
 <!-- latest-work:end -->
 
 ## Activity
