@@ -46,11 +46,11 @@ Five external benchmarks score between 90.50% and 96.97% AUROC. The ROC curves b
 ## Latest work
 
 <!-- latest-work:start -->
-- Nov 8, 2026: Bespoke OG cards + footer internal links ([ahmed-3m.github.io #197](https://github.com/ahmed-3m/ahmed-3m.github.io/pull/197))
-- Nov 8, 2026: Align portfolio identity with the redesigned GitHub profile ([ahmed-3m.github.io #196](https://github.com/ahmed-3m/ahmed-3m.github.io/pull/196))
-- Nov 7, 2026: Reconcile AUROC numbers + legible τ label; refresh agent docs ([ahmed-3m.github.io #193](https://github.com/ahmed-3m/ahmed-3m.github.io/pull/193))
-- Nov 7, 2026: Update education details in README ([ahmed-3m.github.io #194](https://github.com/ahmed-3m/ahmed-3m.github.io/pull/194))
-- Nov 7, 2026: Dead code removal, dedicated 404 title, YOLOv8n/m erratum ([ahmed-3m.github.io #188](https://github.com/ahmed-3m/ahmed-3m.github.io/pull/188))
+- Nov 9, 2026: Gate 2: Exercise the offline scout-to-builder handoff ([mirql #165](https://github.com/ahmed-3m/mirql/pull/165))
+- Nov 9, 2026: Gate 1: Add an offline isolated pilot verifier ([mirql #163](https://github.com/ahmed-3m/mirql/pull/163))
+- Nov 9, 2026: Retry empty commit-PR association with backoff in main-guard ([mergeproof #69](https://github.com/ahmed-3m/mergeproof/pull/69))
+- Nov 8, 2026: Paths.yaml header: align MP-001 clearing comment with post-#152 behavior (owner sign-off only) ([mirql #159](https://github.com/ahmed-3m/mirql/pull/159))
+- Nov 8, 2026: Public-repo perimeter: fork-PR YAML gate on Candidate+Notary + auto-lock mirql/issue- threads (kills runner/API starvation + receipt pagination poisoning) ([mirql #153](https://github.com/ahmed-3m/mirql/pull/153))
 <!-- latest-work:end -->
 
 ## Activity
