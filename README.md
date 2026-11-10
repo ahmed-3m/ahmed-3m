@@ -46,11 +46,11 @@ Five external benchmarks score between 90.50% and 96.97% AUROC. The ROC curves b
 ## Latest work
 
 <!-- latest-work:start -->
+- Nov 9, 2026: Sync llms.txt / llms-full.txt with the refreshed CV facts ([ahmed-3m.github.io #200](https://github.com/ahmed-3m/ahmed-3m.github.io/pull/200))
 - Nov 9, 2026: Gate 2: Exercise the offline scout-to-builder handoff ([mirql #165](https://github.com/ahmed-3m/mirql/pull/165))
 - Nov 9, 2026: Gate 1: Add an offline isolated pilot verifier ([mirql #163](https://github.com/ahmed-3m/mirql/pull/163))
 - Nov 9, 2026: Retry empty commit-PR association with backoff in main-guard ([mergeproof #69](https://github.com/ahmed-3m/mergeproof/pull/69))
 - Nov 8, 2026: Paths.yaml header: align MP-001 clearing comment with post-#152 behavior (owner sign-off only) ([mirql #159](https://github.com/ahmed-3m/mirql/pull/159))
-- Nov 8, 2026: Public-repo perimeter: fork-PR YAML gate on Candidate+Notary + auto-lock mirql/issue- threads (kills runner/API starvation + receipt pagination poisoning) ([mirql #153](https://github.com/ahmed-3m/mirql/pull/153))
 <!-- latest-work:end -->
 
 ## Activity
