@@ -46,11 +46,11 @@ Five external benchmarks score between 90.50% and 96.97% AUROC. The ROC curves b
 ## Latest work
 
 <!-- latest-work:start -->
+- Nov 13, 2026: Implement RFC 005 portfolio credibility, research accuracy, and mobile usability ([ahmed-3m.github.io #205](https://github.com/ahmed-3m/ahmed-3m.github.io/pull/205))
 - Nov 9, 2026: Sync llms.txt / llms-full.txt with the refreshed CV facts ([ahmed-3m.github.io #200](https://github.com/ahmed-3m/ahmed-3m.github.io/pull/200))
 - Nov 9, 2026: Retry empty commit-PR association with backoff in main-guard ([mergeproof #69](https://github.com/ahmed-3m/mergeproof/pull/69))
 - Nov 8, 2026: Bespoke OG cards + footer internal links ([ahmed-3m.github.io #197](https://github.com/ahmed-3m/ahmed-3m.github.io/pull/197))
 - Nov 8, 2026: Align portfolio identity with the redesigned GitHub profile ([ahmed-3m.github.io #196](https://github.com/ahmed-3m/ahmed-3m.github.io/pull/196))
-- Nov 7, 2026: Reconcile AUROC numbers + legible τ label; refresh agent docs ([ahmed-3m.github.io #193](https://github.com/ahmed-3m/ahmed-3m.github.io/pull/193))
 <!-- latest-work:end -->
 
 ## Activity
