@@ -46,11 +46,11 @@ Five external benchmarks score between 90.50% and 96.97% AUROC. The ROC curves b
 ## Latest work
 
 <!-- latest-work:start -->
-- Nov 13, 2026: Sync records the release that first shipped each merge ([mergeproof #76](https://github.com/ahmed-3m/mergeproof/pull/76))
-- Nov 13, 2026: Sync records who closed an unmerged proven PR ([mergeproof #75](https://github.com/ahmed-3m/mergeproof/pull/75))
-- Nov 13, 2026: Implement RFC 005 portfolio credibility, research accuracy, and mobile usability ([ahmed-3m.github.io #205](https://github.com/ahmed-3m/ahmed-3m.github.io/pull/205))
-- Nov 9, 2026: Sync llms.txt / llms-full.txt with the refreshed CV facts ([ahmed-3m.github.io #200](https://github.com/ahmed-3m/ahmed-3m.github.io/pull/200))
-- Nov 9, 2026: Retry empty commit-PR association with backoff in main-guard ([mergeproof #69](https://github.com/ahmed-3m/mergeproof/pull/69))
+- Nov 18, 2026: Support per-file test command placeholders ([mergeproof #78](https://github.com/ahmed-3m/mergeproof/pull/78))
+- Nov 18, 2026: Refresh the public CV and tidy the portfolio homepage ([ahmed-3m.github.io #225](https://github.com/ahmed-3m/ahmed-3m.github.io/pull/225))
+- Nov 18, 2026: Fix portfolio review gaps and track remaining RFC 215 checks ([ahmed-3m.github.io #224](https://github.com/ahmed-3m/ahmed-3m.github.io/pull/224))
+- Nov 18, 2026: Retro shows maintainer rejections of proven PRs ([mergeproof #77](https://github.com/ahmed-3m/mergeproof/pull/77))
+- Nov 18, 2026: Improve portfolio clarity and accessibility; track RFC 215 acceptance ([ahmed-3m.github.io #218](https://github.com/ahmed-3m/ahmed-3m.github.io/pull/218))
 <!-- latest-work:end -->
 
 ## Activity
