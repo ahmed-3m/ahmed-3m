@@ -46,11 +46,11 @@ Five external benchmarks score between 90.50% and 96.97% AUROC. The ROC curves b
 ## Latest work
 
 <!-- latest-work:start -->
+- Nov 19, 2026: Make the portfolio homepage concise and add detail pages ([ahmed-3m.github.io #230](https://github.com/ahmed-3m/ahmed-3m.github.io/pull/230))
+- Nov 19, 2026: Turn Genie into a guide to the public portfolio ([ahmed-3m.github.io #226](https://github.com/ahmed-3m/ahmed-3m.github.io/pull/226))
 - Nov 18, 2026: Support per-file test command placeholders ([mergeproof #78](https://github.com/ahmed-3m/mergeproof/pull/78))
 - Nov 18, 2026: Refresh the public CV and tidy the portfolio homepage ([ahmed-3m.github.io #225](https://github.com/ahmed-3m/ahmed-3m.github.io/pull/225))
 - Nov 18, 2026: Fix portfolio review gaps and track remaining RFC 215 checks ([ahmed-3m.github.io #224](https://github.com/ahmed-3m/ahmed-3m.github.io/pull/224))
-- Nov 18, 2026: Retro shows maintainer rejections of proven PRs ([mergeproof #77](https://github.com/ahmed-3m/mergeproof/pull/77))
-- Nov 18, 2026: Improve portfolio clarity and accessibility; track RFC 215 acceptance ([ahmed-3m.github.io #218](https://github.com/ahmed-3m/ahmed-3m.github.io/pull/218))
 <!-- latest-work:end -->
 
 ## Activity
