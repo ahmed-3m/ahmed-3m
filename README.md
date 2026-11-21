@@ -46,11 +46,11 @@ Five external benchmarks score between 90.50% and 96.97% AUROC. The ROC curves b
 ## Latest work
 
 <!-- latest-work:start -->
-- Nov 19, 2026: Make the portfolio homepage concise and add detail pages ([ahmed-3m.github.io #230](https://github.com/ahmed-3m/ahmed-3m.github.io/pull/230))
-- Nov 19, 2026: Turn Genie into a guide to the public portfolio ([ahmed-3m.github.io #226](https://github.com/ahmed-3m/ahmed-3m.github.io/pull/226))
-- Nov 18, 2026: Support per-file test command placeholders ([mergeproof #78](https://github.com/ahmed-3m/mergeproof/pull/78))
-- Nov 18, 2026: Refresh the public CV and tidy the portfolio homepage ([ahmed-3m.github.io #225](https://github.com/ahmed-3m/ahmed-3m.github.io/pull/225))
-- Nov 18, 2026: Fix portfolio review gaps and track remaining RFC 215 checks ([ahmed-3m.github.io #224](https://github.com/ahmed-3m/ahmed-3m.github.io/pull/224))
+- Nov 21, 2026: Clarify contributions in full portfolio projects ([ahmed-3m.github.io #244](https://github.com/ahmed-3m/ahmed-3m.github.io/pull/244))
+- Nov 21, 2026: Streamline the full portfolio on mobile ([ahmed-3m.github.io #243](https://github.com/ahmed-3m/ahmed-3m.github.io/pull/243))
+- Nov 21, 2026: Preserve full portfolio section links ([ahmed-3m.github.io #242](https://github.com/ahmed-3m/ahmed-3m.github.io/pull/242))
+- Nov 21, 2026: Align portfolio content with the updated CV ([ahmed-3m.github.io #241](https://github.com/ahmed-3m/ahmed-3m.github.io/pull/241))
+- Nov 20, 2026: Redesign concise homepage as Swiss sci-fi launch stage ([ahmed-3m.github.io #232](https://github.com/ahmed-3m/ahmed-3m.github.io/pull/232))
 <!-- latest-work:end -->
 
 ## Activity
