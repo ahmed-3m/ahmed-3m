@@ -46,11 +46,11 @@ Five external benchmarks score between 90.50% and 96.97% AUROC. The ROC curves b
 ## Latest work
 
 <!-- latest-work:start -->
-- Nov 21, 2026: Clarify contributions in full portfolio projects ([ahmed-3m.github.io #244](https://github.com/ahmed-3m/ahmed-3m.github.io/pull/244))
-- Nov 21, 2026: Streamline the full portfolio on mobile ([ahmed-3m.github.io #243](https://github.com/ahmed-3m/ahmed-3m.github.io/pull/243))
-- Nov 21, 2026: Preserve full portfolio section links ([ahmed-3m.github.io #242](https://github.com/ahmed-3m/ahmed-3m.github.io/pull/242))
-- Nov 21, 2026: Align portfolio content with the updated CV ([ahmed-3m.github.io #241](https://github.com/ahmed-3m/ahmed-3m.github.io/pull/241))
-- Nov 20, 2026: Redesign concise homepage as Swiss sci-fi launch stage ([ahmed-3m.github.io #232](https://github.com/ahmed-3m/ahmed-3m.github.io/pull/232))
+- Nov 22, 2026: Ground Genie answers and recover interrupted replies ([ahmed-3m.github.io #254](https://github.com/ahmed-3m/ahmed-3m.github.io/pull/254))
+- Nov 22, 2026: Route Genie model requests through the Worker ([ahmed-3m.github.io #253](https://github.com/ahmed-3m/ahmed-3m.github.io/pull/253))
+- Nov 22, 2026: Improve research page flow ([ahmed-3m.github.io #252](https://github.com/ahmed-3m/ahmed-3m.github.io/pull/252))
+- Nov 22, 2026: Clarify the separation-loss research visuals ([ahmed-3m.github.io #250](https://github.com/ahmed-3m/ahmed-3m.github.io/pull/250))
+- Nov 22, 2026: Refresh the portfolio README ([ahmed-3m.github.io #249](https://github.com/ahmed-3m/ahmed-3m.github.io/pull/249))
 <!-- latest-work:end -->
 
 ## Activity
