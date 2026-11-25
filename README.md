@@ -46,11 +46,11 @@ Five external benchmarks score between 90.50% and 96.97% AUROC. The ROC curves b
 ## Latest work
 
 <!-- latest-work:start -->
-- Nov 22, 2026: Ground Genie answers and recover interrupted replies ([ahmed-3m.github.io #254](https://github.com/ahmed-3m/ahmed-3m.github.io/pull/254))
-- Nov 22, 2026: Route Genie model requests through the Worker ([ahmed-3m.github.io #253](https://github.com/ahmed-3m/ahmed-3m.github.io/pull/253))
-- Nov 22, 2026: Improve research page flow ([ahmed-3m.github.io #252](https://github.com/ahmed-3m/ahmed-3m.github.io/pull/252))
-- Nov 22, 2026: Clarify the separation-loss research visuals ([ahmed-3m.github.io #250](https://github.com/ahmed-3m/ahmed-3m.github.io/pull/250))
-- Nov 22, 2026: Refresh the portfolio README ([ahmed-3m.github.io #249](https://github.com/ahmed-3m/ahmed-3m.github.io/pull/249))
+- Nov 25, 2026: Refine portfolio positioning, Sihem showcase, card surfaces, and RTL support ([ahmed-3m.github.io #261](https://github.com/ahmed-3m/ahmed-3m.github.io/pull/261))
+- Nov 24, 2026: Open the AI front desk in the portfolio's light or dark theme ([ahmed-3m.github.io #260](https://github.com/ahmed-3m/ahmed-3m.github.io/pull/260))
+- Nov 24, 2026: Impressum and privacy notice pages ([ahmed-3m.github.io #259](https://github.com/ahmed-3m/ahmed-3m.github.io/pull/259))
+- Nov 24, 2026: AI front desk button with a data notice ([ahmed-3m.github.io #258](https://github.com/ahmed-3m/ahmed-3m.github.io/pull/258))
+- Nov 24, 2026: List only /sitemap.xml in robots.txt ([ahmed-3m.github.io #257](https://github.com/ahmed-3m/ahmed-3m.github.io/pull/257))
 <!-- latest-work:end -->
 
 ## Activity
