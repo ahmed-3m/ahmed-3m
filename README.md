@@ -46,11 +46,11 @@ Five external benchmarks score between 90.50% and 96.97% AUROC. The ROC curves b
 ## Latest work
 
 <!-- latest-work:start -->
-- Nov 25, 2026: Align the score histogram and ROC cards ([ahmed-3m.github.io #273](https://github.com/ahmed-3m/ahmed-3m.github.io/pull/273))
-- Nov 25, 2026: Use the correct public email address ([ahmed-3m.github.io #272](https://github.com/ahmed-3m/ahmed-3m.github.io/pull/272))
-- Nov 25, 2026: Fit fr/es links on single desktop row ([ahmed-3m.github.io #271](https://github.com/ahmed-3m/ahmed-3m.github.io/pull/271))
-- Nov 25, 2026: Restore usual full-width desktop layout ([ahmed-3m.github.io #270](https://github.com/ahmed-3m/ahmed-3m.github.io/pull/270))
-- Nov 25, 2026: Center layout and move inline styles to CSS classes ([ahmed-3m.github.io #269](https://github.com/ahmed-3m/ahmed-3m.github.io/pull/269))
+- Nov 27, 2026: Keep the chat across pages and add a hand-off row ([ahmed-3m.github.io #302](https://github.com/ahmed-3m/ahmed-3m.github.io/pull/302))
+- Nov 27, 2026: Tune glm-5.4 token headroom, harden RWR guardrail, and add proxy canary ([ahmed-3m.github.io #298](https://github.com/ahmed-3m/ahmed-3m.github.io/pull/298))
+- Nov 27, 2026: Label fallback answers and count Genie and outbound-link events ([ahmed-3m.github.io #300](https://github.com/ahmed-3m/ahmed-3m.github.io/pull/300))
+- Nov 27, 2026: Add eight suggested questions with prepared answers ([ahmed-3m.github.io #297](https://github.com/ahmed-3m/ahmed-3m.github.io/pull/297))
+- Nov 27, 2026: Smart news carousel arrows, /news tag filters, and full-view back navigation ([ahmed-3m.github.io #299](https://github.com/ahmed-3m/ahmed-3m.github.io/pull/299))
 <!-- latest-work:end -->
 
 ## Activity
